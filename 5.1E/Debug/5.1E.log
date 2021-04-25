@@ -1,0 +1,19 @@
+﻿  Source.cpp
+  Vector3D.cpp
+E:\pr\5.1E\5.1E\Vector3D.cpp(100,16): warning C4805: '==': unsafe mix of type 'bool' and type 'const double' in operation
+E:\pr\5.1E\5.1E\Vector3D.cpp(101,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(109,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(116,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\pr\5.1E\5.1E\Vector3D.cpp(117,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\pr\5.1E\5.1E\Vector3D.cpp(118,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\pr\5.1E\5.1E\Vector3D.cpp(123,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(125,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(127,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(129,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(131,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(133,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(135,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(137,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+E:\pr\5.1E\5.1E\Vector3D.cpp(139,11): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+  Generating Code...
+  5.1E.vcxproj -> E:\pr\5.1E\Debug\5.1E.exe
